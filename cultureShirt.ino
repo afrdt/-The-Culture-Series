@@ -21,8 +21,8 @@
  */
 
 // muscle wire actuators connected to digital i/o 3 and A2 
-#define muscle1 3;
-#define muscle2 A2;
+#define muscle1 3
+#define muscle2 A2
 
 // the setup routine runs once when you press reset:
 void setup() {                
